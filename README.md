@@ -13,7 +13,7 @@ The project was developed to transform raw learner assessment data into meaningf
 2. Power BI - data modelling, DAX Calculations and visualization.
 3. DAX - analytical calculations and measures.
   ## MySQL
-I used MySQL to create and prepare the assessment table before analyzing in Power BI. It helped me detect learner with one missing assessment using a Left Outer join.
+I used MySQL to create and prepare the assessment table before analyzing in Power BI. I used it to check for nulls in the assessment tables using where clause to avoid inaccuracy when reporting. 
 ![MySQL Opener](Opener-assessment-table-SQL.jpg)
 ![MySQL Endterm](Endterm-assessment-table-SQL.jpg)
 ![SQL data preparation](Data_cleaning.jpg)
