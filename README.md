@@ -18,7 +18,7 @@ I used MySQL to create and prepare the assessment table before analyzing in Powe
 ![MySQL Endterm](Endterm-assessment-table-SQL.jpg)
 ![SQL data preparation](SQL-data-preperation.jpg)
   ## Dashboard Preview
-![Learner Perfomance Dashboard](Learner-dashboard.jpg)
+![Learner Perfomance Dashboard](Learner-dashboard.jpg.jpg)
   ## Key insights
 1. Overall Performance - The average for the opener and endterm assessments was 426.05 marks. The learners had an overall improvement of 33.29 points from Opener to Endterm. This indicates a substantial improvement across learner population.
 2. Learner Performance- The learners have an average difference of 118.68 points by gender. This is a huge mark gap that indicates girls are performing better than the boys.
