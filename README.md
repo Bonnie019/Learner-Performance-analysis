@@ -16,7 +16,7 @@ The project was developed to transform raw learner assessment data into meaningf
 I used MySQL to create and prepare the assessment table before analyzing in Power BI. It helped me detect learner with one missing assessment using a Left Outer join.
 ![MySQL Opener](Opener-assessment-table-SQL.jpg)
 ![MySQL Endterm](Endterm-assessment-table-SQL.jpg)
-![SQL data preparation](SQL-data-preperation.jpg)
+![SQL data preparation](Data_cleaning.jpg)
   ## Dashboard Preview
 ![Learner Perfomance Dashboard](Learner-dashboard.jpg.jpg)
   ## Key insights
